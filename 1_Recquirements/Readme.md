@@ -19,6 +19,35 @@ This project is solely made to implement the so far learning made in StepIn prog
 
 ![Untitled Workspace](https://user-images.githubusercontent.com/36342515/114038987-f904de80-989f-11eb-8864-59d5a63d9ac6.png)
 
+### Detail Requirements
+
+* High Level Recquirements
+
+ID | Description | Status 
+--- | --- | --- |
+S.1. | User can be able to seek help | ND 
+S.2. | User can look to the high score | ND
+S.3. | User can play the game again | ND
+S.4. | The score is saved in the local system | ND
+S.5. | Data should always be stored when closing the system. | ND
+
+* Low Level Recquirements
+
+ID | Description | Status
+--- | --- | --- |
+S.1. | If user recquire a help before starting the game, he can choose the help option, to look what's the game about. | ND
+S.2. | The high score recorded will be saved to the system in text file using the method of file handling. | ND
+S.3. | If user wants to play the game again, then play again would be called to restart the game. | ND
+S.4. | File Handling method will be used to store the score in the local system. | ND
+S.5. | Once the game is played the score is stored and saved, closing of the system wouldn't effect the saved file. | ND
+
+
+
+
+
+
+
+
 
 
 
