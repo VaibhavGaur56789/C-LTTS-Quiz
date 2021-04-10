@@ -14,8 +14,9 @@ This project is solely made to implement the so far learning made in StepIn prog
 
 ## Cost and Features
 
-* Game designed is interactive and friendly.
-* Simple and easy to play.
+* Approx. 500 line of code.
+* Application designed is interactive and user friendly.
+* Simple and easy to use.
 * Easy to modify.
 * There is a scorecard which will be generated at the end.
 
@@ -35,7 +36,7 @@ ID | Description | Status
 --- | --- | --- |
 S.1. | User can be able to seek help | ND 
 S.2. | User can look to the high score | ND
-S.3. | User can play the game again | ND
+S.3. | User can use the application again | ND
 S.4. | The score is saved in the local system | ND
 S.5. | Data should always be stored when closing the system. | ND
 
@@ -43,7 +44,7 @@ S.5. | Data should always be stored when closing the system. | ND
 
 ID | Description | Status
 --- | --- | --- |
-S.1. | If user recquire a help before starting the game, he can choose the help option, to look what's the game about. | ND
+S.1. | If user recquire a help before starting the application, he can choose the help option, to look what's the application about. | ND
 S.2. | The high score recorded will be saved to the system in text file using the method of file handling. | ND
 S.3. | If user wants to play the game again, then play again would be called to restart the game. | ND
 S.4. | File Handling method will be used to store the score in the local system. | ND
